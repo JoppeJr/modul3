@@ -1,0 +1,8 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\AndreApp\MadLib\bin\Debug\MadLib.exe.config
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\AndreApp\MadLib\bin\Debug\MadLib.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\AndreApp\MadLib\bin\Debug\MadLib.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\AndreApp\MadLib\obj\Debug\MadLib.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\AndreApp\MadLib\obj\Debug\MadLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\AndreApp\MadLib\obj\Debug\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\AndreApp\MadLib\obj\Debug\MadLib.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\AndreApp\MadLib\obj\Debug\MadLib.pdb

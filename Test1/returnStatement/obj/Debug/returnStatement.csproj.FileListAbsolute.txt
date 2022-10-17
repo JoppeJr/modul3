@@ -1,0 +1,8 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\returnStatement\bin\Debug\returnStatement.exe.config
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\returnStatement\bin\Debug\returnStatement.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\returnStatement\bin\Debug\returnStatement.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\returnStatement\obj\Debug\returnStatement.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\returnStatement\obj\Debug\returnStatement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\returnStatement\obj\Debug\returnStatement.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\returnStatement\obj\Debug\returnStatement.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\Test1\returnStatement\obj\Debug\returnStatement.pdb
