@@ -1,0 +1,8 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\Debugging\bin\Debug\Debugging.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\Debugging\obj\Debug\Debugging.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\Debugging\obj\Debug\Debugging.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\Debugging\obj\Debug\Debugging.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\Debugging\obj\Debug\Debugging.pdb

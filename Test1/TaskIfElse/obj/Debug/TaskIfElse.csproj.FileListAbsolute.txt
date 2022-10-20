@@ -1,0 +1,8 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskIfElse\bin\Debug\TaskIfElse.exe.config
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskIfElse\bin\Debug\TaskIfElse.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskIfElse\bin\Debug\TaskIfElse.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskIfElse\obj\Debug\TaskIfElse.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskIfElse\obj\Debug\TaskIfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskIfElse\obj\Debug\TaskIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskIfElse\obj\Debug\TaskIfElse.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskIfElse\obj\Debug\TaskIfElse.pdb
