@@ -16,6 +16,9 @@ namespace BerntLiver
         private bool SuccessCondition => numb > 50;
         private bool NotHappyWithOutcome => userInput == "n";
         private bool NotHappyWithOutcome2 => numb > 50;
+
+        private bool NotHappyWithOutcome3 => userInput == "y";
+        private bool NotHappyWithOutcome4 => numb < 50;
         private bool PlayMore => PlayAgain == "y";
 
 
@@ -26,7 +29,7 @@ namespace BerntLiver
                 Console.WriteLine("Check if liver operation is a success");
                 getSuccessRate();
                 ShowSuccessRate();
-                Console.WriteLine("Not happy with outcome? y/n ?");
+                Console.WriteLine("Are you happy with outcome? y/n ?");
 
                 userInput = Console.ReadLine();
                 ChangedOutcome();
@@ -65,7 +68,7 @@ namespace BerntLiver
 
         private void ChangedOutcome()
         {
-            if (NotHappyWithOutcome && NotHappyWithOutcome2)
+            if (NotHappyWithOutcome && NotHappyWithOutcome2 || NotHappyWithOutcome3  && NotHappyWithOutcome4)
             {
                 Console.WriteLine("Oh Shit, you still died");
                 return;
