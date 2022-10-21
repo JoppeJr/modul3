@@ -1,0 +1,8 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\BerntLiver\bin\Debug\BerntLiver.exe.config
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\BerntLiver\bin\Debug\BerntLiver.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\BerntLiver\bin\Debug\BerntLiver.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\BerntLiver\obj\Debug\BerntLiver.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\BerntLiver\obj\Debug\BerntLiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\BerntLiver\obj\Debug\BerntLiver.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\BerntLiver\obj\Debug\BerntLiver.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\BerntLiver\obj\Debug\BerntLiver.pdb

@@ -1,0 +1,8 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskForForeachWhile\bin\Debug\TaskForForeachWhile.exe.config
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskForForeachWhile\bin\Debug\TaskForForeachWhile.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskForForeachWhile\bin\Debug\TaskForForeachWhile.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskForForeachWhile\obj\Debug\TaskForForeachWhile.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskForForeachWhile\obj\Debug\TaskForForeachWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskForForeachWhile\obj\Debug\TaskForForeachWhile.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskForForeachWhile\obj\Debug\TaskForForeachWhile.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\TaskForForeachWhile\obj\Debug\TaskForForeachWhile.pdb
