@@ -1,0 +1,8 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\JokeGeneratorWMarEw\obj\Debug\JokeGeneratorWMarEw.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\JokeGeneratorWMarEw\obj\Debug\JokeGeneratorWMarEw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\JokeGeneratorWMarEw\obj\Debug\JokeGeneratorWMarEw.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\JokeGeneratorWMarEw\bin\Debug\JokeGeneratorWMarEw.exe.config
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\JokeGeneratorWMarEw\bin\Debug\JokeGeneratorWMarEw.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\JokeGeneratorWMarEw\bin\Debug\JokeGeneratorWMarEw.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\JokeGeneratorWMarEw\obj\Debug\JokeGeneratorWMarEw.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\JokeGeneratorWMarEw\obj\Debug\JokeGeneratorWMarEw.pdb
