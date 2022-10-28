@@ -6,6 +6,7 @@ namespace JokeGeneratorWMarEw
     {
         private ListOfJokes jokes = new();
         private PrintingMethods print = new();
+
         public void ExecuteOptions()
         {
             int Option = 0;

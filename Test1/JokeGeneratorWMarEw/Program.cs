@@ -12,7 +12,7 @@ namespace JokeGeneratorWMarEw
         {
             Console.WriteLine("Hello World!");
             
-            var Run = new ListOfJokes();
+            var Run = new OpptionsMenu();
             Run.ExecuteOptions();
             Console.ReadLine();
 

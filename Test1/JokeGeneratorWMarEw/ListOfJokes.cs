@@ -6,10 +6,13 @@ namespace JokeGeneratorWMarEw
     internal class ListOfJokes
     {
         public List<Joke> JokesList { get; set; }
+        public List<Joke> randomJoke { get; set; }
+        Random random = new();
 
         public ListOfJokes()
         {
             JokesList = new List<Joke>();
+            randomJoke = new List<Joke>();
             {
                 JokesList.Add(new Joke("What did the toaster say to the slice of bread? \"I want you inside me.", "Dirty"));
                 JokesList.Add(new Joke("I'll admit it, I have a tremendous sex drive. My girlfriend lives forty miles away.", "Dirty"));
@@ -29,9 +32,10 @@ namespace JokeGeneratorWMarEw
             {
                 if (joke.Genre == "Dirty")
                 {
-                    joke.PrintJoke();
+                    randomJoke.Add(joke);
                 }
             }
+            PrintRandomJoke();
         }
 
         public void PrintFunnyJoke()
@@ -40,9 +44,17 @@ namespace JokeGeneratorWMarEw
             {
                 if (joke.Genre == "Funny")
                 {
-                    joke.PrintJoke();
+                    randomJoke.Add(joke);
                 }
             }
+            PrintRandomJoke();
+        }
+
+        public void PrintRandomJoke()
+        {
+            var randomIndex = random.Next(0, randomJoke.Count);
+            randomJoke[randomIndex].PrintJoke();
+            randomJoke.Clear();
         }
     }
 }

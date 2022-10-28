@@ -17,7 +17,7 @@ namespace JokeGeneratorWMarEw
 
         public void PrintJoke()
         {
-            Console.WriteLine($"The joke: {Text}");
+            Console.WriteLine($"The joke: {Text} ");
       
         }
       
