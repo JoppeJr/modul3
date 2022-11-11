@@ -1,0 +1,15 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\PPDaniOgErik.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\PPDaniOgErik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\PPDaniOgErik.AssemblyInfoInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\PPDaniOgErik.AssemblyInfo.cs
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\PPDaniOgErik.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\bin\Debug\net6.0\PPDaniOgErik.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\bin\Debug\net6.0\PPDaniOgErik.deps.json
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\bin\Debug\net6.0\PPDaniOgErik.runtimeconfig.json
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\bin\Debug\net6.0\PPDaniOgErik.dll
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\bin\Debug\net6.0\PPDaniOgErik.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\PPDaniOgErik.dll
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\refint\PPDaniOgErik.dll
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\PPDaniOgErik.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\PPDaniOgErik.genruntimeconfig.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\PPDaniOgErik\obj\Debug\net6.0\ref\PPDaniOgErik.dll
