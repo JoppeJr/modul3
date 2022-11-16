@@ -3,9 +3,9 @@
     public class GameCharacters
     {
         public string _Name;
-        private int _health;
-        private int _dmg;
-        private int _stamina;
+        public int _health;
+        public int _dmg;
+        public int _stamina;
 
         public GameCharacters(string name, int hp, int dmg, int stamina)
         {
