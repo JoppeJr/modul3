@@ -42,8 +42,6 @@ namespace EgenTestKunnskap
         private static void WrongCode()
         {
             Console.WriteLine("du har tastet feil prøv igjen.");
-            Console.WriteLine("Dette er hoved menyen!");
-            Console.WriteLine("Tast in din personlige kode for meny valg: ");
         }
 
         private void ExitProgram()
@@ -64,15 +62,11 @@ namespace EgenTestKunnskap
             if (optionsmenu == 1)
             {
                 ShowToDos();
-                Console.WriteLine("Tilbake til meny tast 1");
-                var returnToMenu = Convert.ToInt32(Console.ReadLine());
-                if (returnToMenu == 1)
-                {
-                    Rightcode();
-                }
+                ReturnToMenu();
             }
             if (optionsmenu == 2)
             {
+                
                 AddToDoList(out var toDoText, out var toDoTime, out var addWanted);
 
                 
@@ -81,53 +75,19 @@ namespace EgenTestKunnskap
             if (optionsmenu == 3)
             {
                 ShowToDos();
-                Console.WriteLine("Trykk nummer for den tasken du ønsker å fjerne");
-                var removeIndex = Convert.ToInt32(Console.ReadLine());
-                ToDoLists.RemoveAt(removeIndex - 1);
+                RemoveToDo();
                 ShowToDos();
 
             }
 
             if (optionsmenu == 4)
             {
-                var boardmodel = new GameBoard();
-                var xWin = true;
-                var BotWin = true;
-                while (xWin || BotWin)
-                {
-                    BoardView.Show(boardmodel);
-                    Console.Write("Skriv inn hvor du vil sette kryss (f.eks. 'a2' ): ");
-                    var position = Console.ReadLine();
-                    boardmodel.SetCross(position);
+                RunGame();
+            }
 
-                    BoardView.Show(boardmodel);
+            if (optionsmenu == 5)
+            {
 
-                    Thread.Sleep(2000);
-                    boardmodel.SetRanodomCircle();
-                    xWin = boardmodel.ChechIfWin();
-                    BotWin = boardmodel.CheckIfBotWin();
-                    if (xWin == true)
-                    {
-                        Console.WriteLine("Gratulerer du har vunnet! ");
-                        Thread.Sleep(2000);
-                        Rightcode();
-
-                    }
-
-                    if (BotWin == true)
-                    {
-                        Console.WriteLine("Du har Tapt!");
-                        Thread.Sleep(2000);
-                        Rightcode();
-                    }
-                    else
-                    {
-                        xWin = true;
-                        BoardView.Show(boardmodel);
-                    }
-
-                    Thread.Sleep(2000);
-                }
             }
             else
             {
@@ -138,12 +98,73 @@ namespace EgenTestKunnskap
 
         }
 
+        private void RunGame()
+        {
+            var boardmodel = new GameBoard();
+            var xWin = true;
+            var BotWin = true;
+            while (xWin)
+            {
+                BoardView.Show(boardmodel);
+                Console.Write("Skriv inn hvor du vil sette kryss (f.eks. 'a2' ): ");
+                var position = Console.ReadLine();
+                boardmodel.SetCross(position);
+
+                BoardView.Show(boardmodel);
+
+                Thread.Sleep(2000);
+                boardmodel.SetRanodomCircle();
+                xWin = boardmodel.ChechIfWin();
+                BotWin = boardmodel.CheckIfBotWin();
+                if (xWin == true)
+                {
+                    Console.WriteLine("Gratulerer du har vunnet! ");
+                    Thread.Sleep(2000);
+                    Rightcode();
+                }
+
+                if (BotWin == true)
+                {
+                    BoardView.Show(boardmodel);
+                    Console.WriteLine("Du har Tapt!");
+                    Thread.Sleep(2000);
+                    Rightcode();
+                    xWin = false;
+                }
+                else
+                {
+                    xWin = true;
+                    BoardView.Show(boardmodel);
+                }
+
+                Thread.Sleep(2000);
+            }
+        }
+
+        private void RemoveToDo()
+        {
+            Console.WriteLine("Trykk nummer for den tasken du ønsker å fjerne");
+            var removeIndex = Convert.ToInt32(Console.ReadLine());
+            ToDoLists.RemoveAt(removeIndex - 1);
+        }
+
+        private void ReturnToMenu()
+        {
+            Console.WriteLine("Tilbake til meny tast 1");
+            var returnToMenu = Convert.ToInt32(Console.ReadLine());
+            if (returnToMenu == 1)
+            {
+                Rightcode();
+            }
+        }
+
         private static void MenuView()
         {
             Console.WriteLine("1. Se ToDoList");
             Console.WriteLine("2. Legg til toDolist");
             Console.WriteLine("3. Fjern fra toDoList");
             Console.WriteLine("4. Spill tic tac toe");
+            //Console.WriteLine("5. Se BossFight");
         }
 
         private void ShowToDos()
@@ -154,7 +175,7 @@ namespace EgenTestKunnskap
                 {
 
                     Console.WriteLine("Task nr: " + _count + ToDo.ToString());
-                    //Console.WriteLine("Task nr: " + i + ToDo.ToString());
+                    
                 }
             
             

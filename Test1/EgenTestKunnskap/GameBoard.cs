@@ -47,13 +47,17 @@ namespace EgenTestKunnskap
 
         public bool ChechIfWin()
         {
-            if (Content[0] == CellContent.Cross && Content[1] == CellContent.Cross && Content[2] == CellContent.Cross) return true;
-            if (Content[0] == CellContent.Cross && Content[3] == CellContent.Cross && Content[6] == CellContent.Cross) return true;
-            if (Content[0] == CellContent.Cross && Content[4] == CellContent.Cross && Content[8] == CellContent.Cross) return true;
+            int a1 = 0;
+            int a2 = 3;
+            int a3 = 6;
+
+            if (Content[a1] == CellContent.Cross && Content[1] == CellContent.Cross && Content[2] == CellContent.Cross) return true;
+            if (Content[a1] == CellContent.Cross && Content[a2] == CellContent.Cross && Content[a3] == CellContent.Cross) return true;
+            if (Content[a1] == CellContent.Cross && Content[4] == CellContent.Cross && Content[8] == CellContent.Cross) return true;
             if (Content[1] == CellContent.Cross && Content[4] == CellContent.Cross && Content[7] == CellContent.Cross) return true;
             if (Content[2] == CellContent.Cross && Content[5] == CellContent.Cross && Content[8] == CellContent.Cross) return true;
             if (Content[2] == CellContent.Cross && Content[4] == CellContent.Cross && Content[8] == CellContent.Cross) return true;
-            if (Content[6] == CellContent.Cross && Content[7] == CellContent.Cross && Content[8] == CellContent.Cross) return true;
+            if (Content[a3] == CellContent.Cross && Content[7] == CellContent.Cross && Content[8] == CellContent.Cross) return true;
 
            
             else return false;
@@ -66,8 +70,8 @@ namespace EgenTestKunnskap
             if (Content[0] == CellContent.Circle && Content[3] == CellContent.Circle && Content[6] == CellContent.Circle) return true;
             if (Content[0] == CellContent.Circle && Content[4] == CellContent.Circle && Content[8] == CellContent.Circle) return true;
             if (Content[1] == CellContent.Circle && Content[4] == CellContent.Circle && Content[7] == CellContent.Circle) return true;
+            if (Content[2] == CellContent.Circle && Content[4] == CellContent.Circle && Content[6] == CellContent.Circle) return true;
             if (Content[2] == CellContent.Circle && Content[5] == CellContent.Circle && Content[8] == CellContent.Circle) return true;
-            if (Content[2] == CellContent.Circle && Content[4] == CellContent.Circle && Content[8] == CellContent.Circle) return true;
             if (Content[6] == CellContent.Circle && Content[7] == CellContent.Circle && Content[8] == CellContent.Circle) return true;
             return false;
         }
