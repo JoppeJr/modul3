@@ -1,0 +1,15 @@
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\bin\Release\net6.0\HotellMedGjester.exe
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\bin\Release\net6.0\HotellMedGjester.deps.json
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\bin\Release\net6.0\HotellMedGjester.runtimeconfig.json
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\bin\Release\net6.0\HotellMedGjester.dll
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\bin\Release\net6.0\HotellMedGjester.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\HotellMedGjester.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\HotellMedGjester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\HotellMedGjester.AssemblyInfoInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\HotellMedGjester.AssemblyInfo.cs
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\HotellMedGjester.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\HotellMedGjester.dll
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\refint\HotellMedGjester.dll
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\HotellMedGjester.pdb
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\HotellMedGjester.genruntimeconfig.cache
+C:\Users\Erik\Desktop\Oppgaver GetAcademy\Modul3\modul3\Test1\HotellMedGjester\obj\Release\net6.0\ref\HotellMedGjester.dll
